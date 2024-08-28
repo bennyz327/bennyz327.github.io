@@ -82,10 +82,10 @@ export default hopeTheme({
     },
     comment: {
       provider: "Giscus",
-      repo: "bennyz327/bennyz327",
-      repoId: "R_kgDOMkrXDw",
+      repo: "bennyz327/bennyz327.github.io",
+      repoId: "R_kgDOMpoNlQ",
       category: "Announcements",
-      categoryId: "DIC_kwDOMkrXD84CiAvD",
+      categoryId: "DIC_kwDOMpoNlc4CiAxH",
       mapping: "title",
     },
     components: {
