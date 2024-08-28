@@ -19,7 +19,7 @@ export default hopeTheme({
 
   logo: "/assets/images/author-no-background.png",
 
-  repo: "bennyz327/bennyz327",
+  repo: "bennyz327/bennyz327.github.io",
 
   docsDir: "blog/vuepress-theme-hope/src",
 
