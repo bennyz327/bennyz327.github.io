@@ -4,10 +4,10 @@ layout: BlogHome
 icon: home
 heroImage: /assets/images/author-icon.png
 bgImage: /assets/images/backgrounds.jpg
-heroText: 斑鳩的 BLOG
+heroText: BEN周的部落格
 heroFullScreen: true
 # SEO
-title: 斑鳩的窩
+title: BEN周的窩
 image: /assets/images/author-no-background.png
 banner: /assets/images/backgrounds.jpg
 tagline: 抓住每一個一閃即逝
@@ -46,4 +46,4 @@ projects:
 footer: Kaohsiung City Taiwan
 ---
 
-返回[首頁](https://bennyz327.github.io/benny-blog/)
+返回[首頁](https://bennyz327.github.io/)

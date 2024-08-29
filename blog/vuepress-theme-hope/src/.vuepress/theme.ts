@@ -12,10 +12,6 @@ export default hopeTheme({
   },
 
   iconAssets: "iconify",
-  // iconAssets: [
-  //   "iconify",
-  //   "fontawesome-with-brands",
-  // ],
 
   logo: "/assets/images/author-no-background.png",
 
@@ -161,6 +157,7 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+    seo: true,
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
