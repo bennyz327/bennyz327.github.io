@@ -20,4 +20,9 @@ actions:
     link: ./intro
     type: default
     icon: ic:outline-info
+# SEO
+title: ""
+description: "抓住每一個一閃即逝"
+cover: /assets/images/backgrounds.jpg
+banner: /assets/images/backgrounds.jpg
 ---
