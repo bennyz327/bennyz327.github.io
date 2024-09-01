@@ -8,7 +8,7 @@ export const zhNavbar = navbar([
   },
   {
     text: "新文章",
-    link: "/tag/new/",
+    link: "/news/",
     icon: "ic:outline-new-releases",
   },
   {

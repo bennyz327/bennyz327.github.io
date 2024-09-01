@@ -1,6 +1,6 @@
 ---
-title: 技術相關
-icon: ic:baseline-code
+title: 入庫文章
+icon: ic:baseline-newspaper
 pageInfo: false
 index: false
 article: false

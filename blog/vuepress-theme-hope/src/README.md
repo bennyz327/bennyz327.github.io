@@ -6,7 +6,6 @@ heroImage: /assets/images/author-icon.png
 bgImage: /assets/images/backgrounds.jpg
 heroText: BEN周的部落格
 heroFullScreen: true
-# SEO
 title: BEN周的窩
 image: /assets/images/author-no-background.png
 banner: /assets/images/backgrounds.jpg
@@ -43,7 +42,7 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: Kaohsiung City Taiwan
+footer: Kaohsiung Taiwan
 ---
 
-返回[首頁](https://bennyz327.github.io/)
+沒有更多文章了

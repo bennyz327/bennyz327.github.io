@@ -8,7 +8,15 @@ export const zhSidebar = sidebar({
       icon: "ic:round-home",
     },
     {
-      text: "網站地圖",
+      text: "最新文章",
+      link: "/news/",
+      icon: "ic:outline-new-releases",
+      prefix: "news",
+      children: "structure",
+    },
+    {
+      text: "入庫文章",
+      link: "/posts/",
       icon: "mdi:sitemap",
       prefix: "posts",
       children: "structure",

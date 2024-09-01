@@ -8,16 +8,29 @@ export default hopeTheme({
 
   author: {
     name: "Benny Chou",
-    url: "https://google.com",
+    url: "https://github.com/bennyz327",
+    email: "bennyz327@gmail.com",
   },
 
-  iconAssets: "iconify",
+  license: "CC BY-NC-ND",
+
+  favicon: "/assets/favicon.ico",
 
   logo: "/assets/images/author-no-background.png",
 
   repo: "bennyz327/bennyz327.github.io",
 
+  repoDisplay: false,
+
   docsDir: "blog/vuepress-theme-hope/src",
+
+  hideSiteNameOnMobile: false,
+
+  editLink: false,
+
+  iconAssets: "iconify",
+
+  fullscreen: true,
 
   blog: {
     medias: {
@@ -30,6 +43,9 @@ export default hopeTheme({
         link: "https://www.cakeresume.com/s--DpsoGkde21f53rH7CDfa7g--/benny-b7fdca",
       },
     },
+    timeline: "邁向未來",
+    articlePerPage: 10,
+    articleInfo: ["Author", "Category", "Date", "ReadingTime"],
   },
 
   locales: {

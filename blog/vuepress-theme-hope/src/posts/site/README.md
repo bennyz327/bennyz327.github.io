@@ -1,8 +1,12 @@
 ---
 title: 網站
-index: false
 icon: ic:baseline-web
+pageInfo: false
+index: false
 article: false
+comment: false
+prev: false
+next: false 
 ---
 
 <Catalog />

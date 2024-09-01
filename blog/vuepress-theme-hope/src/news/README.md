@@ -1,8 +1,12 @@
 ---
 title: 最新文章
-index: false
 icon: ic:baseline-newspaper
+pageInfo: false
+index: false
 article: false
+comment: false
+prev: false
+next: false 
 ---
 
 <Catalog />
