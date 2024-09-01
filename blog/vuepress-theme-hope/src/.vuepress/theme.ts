@@ -14,7 +14,7 @@ export default hopeTheme({
 
   license: "CC BY-NC-ND",
 
-  logo: "/assets/images/author-no-background.png",
+  logo: "/assets/images/author-icon.png",
 
   repo: "bennyz327/bennyz327.github.io",
 
@@ -50,7 +50,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "啪！沒了！",
+      footer: "歡迎分享我的文章，引用請註明文章網址，並遵守【姓名標示-非商業性-禁止改作 4.0 國際】授權條款。",
       displayFooter: true,
       blog: {
         description: "後端開發者",
