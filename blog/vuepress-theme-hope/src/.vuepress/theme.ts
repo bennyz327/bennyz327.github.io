@@ -24,7 +24,7 @@ export default hopeTheme({
       Email: "mailto:bennyz327@gmail.com",
       GitHub: "https://github.com/bennyz327",
       Linkedin: "https://www.linkedin.com/in/benny-chou",
-      Youtube: "https://www.youtube.com/@bennychou0327",
+      Youtube: "https://www.youtube.com/@bennyz327",
       "cakeresume": {
         icon: "https://www.cakeresume.com/_next/static/media/cake-square.1f46e187.svg",
         link: "https://www.cakeresume.com/s--DpsoGkde21f53rH7CDfa7g--/benny-b7fdca",

@@ -9,8 +9,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-TW",
-      title: "斑鳩的技術雜記",
-      description: "斑鳩的技術雜記",
+      title: "BEN周的技術雜記",
+      description: "BEN周的技術雜記",
     },
     // TODO 英文版
     // "/en/": {
