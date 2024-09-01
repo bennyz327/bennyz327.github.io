@@ -12,10 +12,12 @@ bgImageStyle: {
 }
 heroFullScreen: true
 actions:
-  - text: 關於我
-    link: ./intro
-    type: primary
   - text: 部落格
     link: ./home
     type: primary
+    icon: icon-park-outline:push-door
+  - text: 關於我
+    link: ./intro
+    type: default
+    icon: ic:outline-info
 ---
