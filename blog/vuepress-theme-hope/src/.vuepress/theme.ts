@@ -14,8 +14,6 @@ export default hopeTheme({
 
   license: "CC BY-NC-ND",
 
-  favicon: "/assets/favicon.ico",
-
   logo: "/assets/images/author-no-background.png",
 
   repo: "bennyz327/bennyz327.github.io",
