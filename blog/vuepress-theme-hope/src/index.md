@@ -23,5 +23,4 @@ actions:
 # SEO
 title: ""
 description: "抓住每一個一閃即逝"
-cover: /assets/images/backgrounds.jpg
 ---
