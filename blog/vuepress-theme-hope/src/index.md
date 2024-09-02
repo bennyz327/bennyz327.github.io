@@ -21,7 +21,7 @@ actions:
     type: default
     icon: ic:outline-info
 # SEO
-title: ""
+title: "BEN周的技術雜記"
 description: "抓住每一個一閃即逝"
 cover: /assets/images/backgrounds.jpg
 banner: /assets/images/backgrounds.jpg
