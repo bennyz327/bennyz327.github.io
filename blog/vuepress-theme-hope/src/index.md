@@ -25,4 +25,5 @@ title: "BEN周的技術雜記"
 description: "抓住每一個一閃即逝"
 cover: /assets/images/backgrounds.jpg
 banner: /assets/images/backgrounds.jpg
+layout: Origin
 ---

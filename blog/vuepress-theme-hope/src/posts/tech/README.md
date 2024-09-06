@@ -6,7 +6,8 @@ index: false
 article: false
 comment: false
 prev: false
-next: false 
+next: false
+layout: Origin
 ---
 
 <Catalog />

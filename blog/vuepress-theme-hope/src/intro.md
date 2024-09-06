@@ -11,6 +11,7 @@ titles:
   - 技術探索
   - 求好求穩
 content: portfolio
+layout: Origin
 ---
 ## 關於我
 
