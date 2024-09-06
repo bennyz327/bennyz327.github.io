@@ -50,7 +50,7 @@ export default hopeTheme({
     "/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "歡迎分享我的文章，引用請註明文章網址，並遵守【姓名標示-非商業性-禁止改作 4.0 國際】授權條款。",
+      footer: "轉發請註明出處 授權條款採用<a target='_blank' href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en\">姓名標示-非商業性-禁止改作 4.0 國際</a>",
       displayFooter: true,
       blog: {
         description: "後端開發者",
@@ -99,7 +99,7 @@ export default hopeTheme({
       mapping: "title",
     },
     components: {
-      components: ["Badge", "VPCard", "PDF"],
+      components: ["Badge", "VPCard", "PDF", "Share"],
     },
     mdEnhance: {
       align: true,
