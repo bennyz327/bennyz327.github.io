@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://bennyz327.github.io/sitemap.xml
+Sitemap: https://blog.benny.pp.ua/sitemap.xml
