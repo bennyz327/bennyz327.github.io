@@ -26,4 +26,5 @@ description: "抓住每一個一閃即逝"
 cover: /assets/images/backgrounds.jpg
 banner: /assets/images/backgrounds.jpg
 layout: Origin
+footer: false
 ---

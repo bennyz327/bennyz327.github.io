@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://bennyz327.github.io",
+  hostname: "https://blog.benny.pp.ua",
 
   author: {
     name: "Benny Chou",
@@ -172,6 +172,21 @@ export default hopeTheme({
       // sandpack: true,
     },
     seo: true,
+    docsearch: {
+      appId: "POEVSCEGFE",
+      apiKey: "3311d4e353658bd5d42bca150d8b1986",
+      indexName: "bennyblog",
+      locales: {
+        '/': {
+          placeholder: '搜尋部落格',
+          translations: {
+            button: {
+              buttonText: '搜尋部落格',
+            }
+          }
+        },
+      }
+    },
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
