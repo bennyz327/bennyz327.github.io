@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://blog.benny.pp.ua/sitemap.xml
+Sitemap: https://blog.benjk.com/sitemap.xml
