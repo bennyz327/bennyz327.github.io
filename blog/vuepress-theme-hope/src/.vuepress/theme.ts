@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://blog.benny.pp.ua",
+  hostname: "https://blog.benjk.com",
 
   author: {
     name: "Benny Chou",
